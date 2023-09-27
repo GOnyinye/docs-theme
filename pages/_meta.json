@@ -11,5 +11,14 @@
     "type": "page",
     "href": "https://twitter.com/shuding_",
     "newWindow": true
+  },
+  "getting_started" : {
+    "title" : "Getting Started"
+  },
+  "api_reference" : {
+    "title" : "Api Reference"
+  },
+  "building_here" : {
+    "title" : "Building Here"
   }
 }
