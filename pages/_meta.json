@@ -1,7 +1,4 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
   "about": {
     "title": "About",
     "type": "page"
@@ -11,5 +8,14 @@
     "type": "page",
     "href": "https://twitter.com/shuding_",
     "newWindow": true
+  },
+  "getting_started" : {
+    "title" : "Getting Started"
+  },
+  "api_reference" : {
+    "title" : "Api Reference"
+  },
+  "building_here" : {
+    "title" : "Building Here"
   }
 }
