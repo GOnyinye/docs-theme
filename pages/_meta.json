@@ -1,5 +1,4 @@
 {
-  "advanced": "Advanced (A Folder)",
   "about": {
     "title": "About",
     "type": "page"
@@ -18,5 +17,6 @@
   },
   "building_here": {
     "title": "Building Here"
-  }
+  },
+  "index" : " "
 }
