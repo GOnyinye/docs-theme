@@ -1,4 +1,7 @@
 {
+
+
+  "index" : "Hello It's Here",
   "about": {
     "title": "About",
     "type": "page"
@@ -17,6 +20,5 @@
   },
   "building_here": {
     "title": "Building Here"
-  },
-  "index" : " "
+  }
 }
